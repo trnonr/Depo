@@ -133,7 +133,6 @@
     <Content Include="vendor\font-awesome\scss\_screen-reader.scss" />
     <Content Include="vendor\font-awesome\scss\_stacked.scss" />
     <Content Include="vendor\font-awesome\scss\_variables.scss" />
-    <Content Include="WebForm1.aspx" />
     <Content Include="YeniModel.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>YeniModel.edmx</DependentUpon>
@@ -277,13 +276,6 @@
     </Compile>
     <Compile Include="UyeOl.aspx.designer.cs">
       <DependentUpon>UyeOl.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="WebForm1.aspx.cs">
-      <DependentUpon>WebForm1.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="WebForm1.aspx.designer.cs">
-      <DependentUpon>WebForm1.aspx</DependentUpon>
     </Compile>
     <Compile Include="YeniModel.Context.cs">
       <AutoGen>True</AutoGen>
